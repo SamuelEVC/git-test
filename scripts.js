@@ -1,4 +1,4 @@
 function saludar(){
 
-	alert("HOLA COMO ANDAS? ᗜˬᗜ")
+	alert("HOLA COMO ANDAS, BRO? ᗜˬᗜ")
 }
